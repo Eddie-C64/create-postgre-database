@@ -1,4 +1,4 @@
-# create-postgre-database
+# Create a Postgre Database using Python
 Using postres as the database you can webscrape a website, create a csv, and load the csv into a database
 
 ## Requirements
